@@ -26,5 +26,5 @@ Consumir API
 Consumir API
 
 -[x] jsonplaceholder (https://jsonplaceholder.typicode.com/users)
--[] Usar axios
--[] Usar try/catch
+-[x] Usar axios
+-[x] Usar try/catch
